@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ciceron</string>
+    <string name="action_settings">Settings</string>
+    <string name="Save">Save</string>
+    <string name="AddLocationButton">New Place</string>
+    <string name="title_activity_location">Map</string>
+    <string name="DBInfo">DB Info</string>
+    <string name="InitialeDB">Init DB</string>
+    <string name="ClearDB">Clear DB</string>
+    <string name="StartService">Start Service</string>
+    <string name="SelectPlace">Select some place</string>
+    <string name="HintForTaskEdit">Enter your tasks here</string>
+</resources>

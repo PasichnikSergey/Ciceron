@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.john.ciceron.MainActivity">
+    <item
+        android:id="@+id/action_init"
+        android:orderInCategory="100"
+        android:title="@string/InitialeDB"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_clear"
+        android:orderInCategory="100"
+        android:title="@string/ClearDB"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_show_DB"
+        android:orderInCategory="100"
+        android:title="@string/DBInfo"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_StartService"
+        android:orderInCategory="100"
+        android:title="@string/StartService"
+        app:showAsAction="never" />
+</menu>
